@@ -1,2 +1,2 @@
 # CyteX
-team compition with each other
+team members marathon analyzer with each other
